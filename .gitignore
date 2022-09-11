@@ -1,0 +1,12 @@
+!.gitignore
+/MudBun
+/Settings
+
+UniversalRenderPipelineGlobalSettings.asset.meta
+Readme.asset
+Readme.asset.meta
+SampleScene.unity
+SampleScene.unity.meta
+Settings.meta
+UniversalRenderPipelineGlobalSettings.asset
+MudBun.meta
