@@ -40,3 +40,4 @@ Right now it is necessary to add a new case to this switch statement whenever a 
 
 Whenever you update MudBun, you will have add these lines back to CustomBrush.cginc.
 
+After the shaders are done re-compiling, the letter *should* show up. If you get an error saying `Compute shader (MarchingCubes): Property (triTable) at kernel index (1) is not set`, try switching the MudRenderer to Surface Nets or some other Meshing Mode. I don't know what causes this error to appear, it doesn't happen all the time.
