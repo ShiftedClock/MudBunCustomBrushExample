@@ -1,4 +1,4 @@
-﻿MudBun must be installed from the Package Manager for this repo to work.
+﻿MudBun must be installed from the Package Manager for this repo to work. Currently this repo has only been tested with URP.
 
 You will get some errors saying "Unsafe code may only appear if compiling with /unsafe. Enable "Allow 'unsafe' code" in Player Settings to fix this error."
 
