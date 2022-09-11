@@ -20,7 +20,7 @@ In that file, under line 14 where it says `#include "../Shader/SDF/Primitives.cg
 
 So the first section of CustomBrush.cginc should look like this:
 
-![include custom brush](include.png)
+![include custom brush](include.PNG)
 
 Then go down to line 96 in the same file, and copy/paste the following code:
 
@@ -34,7 +34,7 @@ case kLetter:
 
 It should look like this, paying close attention to the closing curly braces:
 
-![add switch statement for custom brush](case.png)
+![add switch statement for custom brush](case.PNG)
 
 Right now it is necessary to add a new case to this switch statement whenever a brush is added. The dev of MudBun is looking at ways of automating this process, since it is error prone.
 
